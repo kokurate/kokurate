@@ -1,4 +1,8 @@
-### Hi there 👋
+Hi there 👋
+
+I'm, kokurate. I love to learn anything about cyber security!
+
+🌱 I’m currently focusing on learning Red Team 
 
 <!--
 **kokurate/kokurate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
