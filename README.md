@@ -1,6 +1,6 @@
 <h1 align="center" style:background-color=#F75B5BFF>Hi, I'm Kokurate!
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75B5B&center=true&width=435&lines=Cyber+Security+Enthusiast;Love+To+Learn+Cyber+Security;Always+Learning+New+Things" alt="Kokurate" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75B5B&center=true&width=435&lines=Cyber+Security+Enthusiast;Quality+Assurance;Love+To+Learn+Cyber+Security;Always+Learning+New+Things" alt="Kokurate" /></a>
 </h1>
 
 <!-- Social badges section -->
