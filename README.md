@@ -1,6 +1,6 @@
 <h1 align="center" style:background-color=#F75B5BFF>Hi, I'm Kokurate!
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75B5B&center=true&width=435&lines=Cyber+Security+Enthusiast;Quality+Assurance;Love+To+Learn+Cyber+Security;Always+Learning+New+Things" alt="Kokurate" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75B5B&center=true&width=435&lines=Cyber+Security+Enthusiast;Web+Developer;Quality+Assurance;Love+To+Learn+Cyber+Security;Always+Learning+New+Things" alt="Kokurate" /></a>
 </h1>
 
 <!-- Social badges section -->
@@ -64,8 +64,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/kokurate" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kokurate" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/fredrik-john-sanger" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fredrik-john-sanger" height="30" width="40" /></a>
-<a href="https://instagram.com/erick_sanger" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="erick_sanger" height="30" width="40" /></a>
+<!-- <a href="https://linkedin.com/in/fredrik-john-sanger" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fredrik-john-sanger" height="30" width="40" /></a> -->
+<!-- <a href="https://instagram.com/erick_sanger" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="erick_sanger" height="30" width="40" /></a> -->
 <a href="https://medium.com/@kokurate" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@kokurate" height="30" width="40" /></a>
 </p>
 
